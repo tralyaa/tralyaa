@@ -9,3 +9,9 @@ I greatly passionate to keep develop my skills both on technology and business f
 * 🌱 I’m currently learning front end and back end on Dicoding.
 * 📫 You can reach me through [email](Tralyaadh@gmail.com).
 ---
+<p align="left">
+<a href="https://github.com/tralyaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tralyaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tralyaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
